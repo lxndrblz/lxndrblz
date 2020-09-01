@@ -1,4 +1,4 @@
-Hello! I’m `Alexander Bilz`, and I’m an IT Operations Manager and soon to be Cyber Security graduate student.
+Hello! I’m `Alexander Bilz`, and I’m a Cyber Security graduate student and Travel Enthusiast.
 
 - 🌈 For fun, I develope static site generator themes like [Anatole](https://github.com/lxndrblz/anatole) for Hugo.
 - 🛺 I'm really into travel hacking, which I combine with my love for Python to find good deals and solve optimization problems.
